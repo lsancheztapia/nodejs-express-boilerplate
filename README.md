@@ -1,4 +1,7 @@
 # nodejs-express-boilerplate
-```
-hey
+## Routes
+```javascript
+/              => nothing
+/login         => login
+/user/get/[id] => 
 ```
